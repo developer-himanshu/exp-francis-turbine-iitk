@@ -77,8 +77,8 @@ td{
     background-color: #f7eee0; 
     margin-top: 100px;
     margin-bottom: 100px;
-    width: min-content;
-    height: min-content;
+    width: max-content;
+    height: max-content;
     border-left: 25px solid ;
     border-right: 25px solid ;
     border-bottom: 25px solid ;
